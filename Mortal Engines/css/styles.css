@@ -1,0 +1,82 @@
+header {
+	background-image: url("https://static.rogerebert.com/uploads/review/primary_image/reviews/mortal-engines-2018/mortal-engines-image.JPG");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center;
+	height: 400px;
+	padding: 0px 20px 20px 20px;
+	text-align: left;
+}
+
+h1 {
+	font-family: "Press Start 2P", cursive;
+	font-size: 45px;
+	text-align: center;
+	border: 20px solid #61482ea9;
+	border-radius: 120px;
+	width: 370px;
+	height: 90px;
+	background-color: #5b5045af;
+	margin: 0 left, right, top, bottom;
+}
+
+p {
+	font-family: Righteous;
+	font-size: 20px;
+}
+
+header p {
+	text-align: center;
+	margin-top: 0;
+	color: #000000;
+	background-color: #ffffff87;
+	border-radius: 30px;
+}
+
+header h2 {
+	display: inline-block;
+	position: relative;
+}
+
+nav li {
+	display: inline-block;
+	text-align: center;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+nav {
+	width: 100%;
+	text-align: center;
+}
+
+body {
+	margin: 0;
+}
+
+main,
+footer {
+	margin: 8px;
+	text-align: center;
+}
+
+footer {
+	background-color: gray;
+	font-size: 20px;
+	font-family: Righteous;
+}
+
+main {
+	background-color: rgb(180, 174, 174);
+}
+
+h2 {
+	font-family: Righteous;
+}
